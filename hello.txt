@@ -14,4 +14,4 @@ hello ps!
 hello ps!
 hello ps!
 hello ps!master test
-hello git
+hello git hot-fix test
